@@ -1,0 +1,3 @@
+name: "Custom CodeQL config"
+queries:
+  - uses: ./codeql-custom-queries-cpp/10_taint_tracking.ql
